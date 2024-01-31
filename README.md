@@ -10,7 +10,7 @@
 - Array.inl: Inline file containing the implementation of additional helper methods for the Array class.
 
 ### Build Configuration Files:
-- array.mpc : MPC (Makefile Project Creator) configuration file for the project.
+- Array.mpc : MPC (Makefile Project Creator) configuration file for the project.
 - Makefile.Array : Makefile for building the project.
 
 ## Build Instructions
